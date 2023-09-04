@@ -3,11 +3,11 @@
 }
 
 body {
-  background: linear-gradient(#099, #000);
+  background: linear-gradient(#099, #011);
   background-attachment: fixed;
 }
 
-p {
+p, a {
   font-size: 24px;
 }
 
@@ -24,7 +24,7 @@ nav {
   position: relative;
   font-size: 36px;
   float: right;
-  bottom: 35px;
+  bottom: 50px;
 }
 
 nav a {
@@ -43,7 +43,7 @@ section {
   margin-bottom: 50px;
   padding: 25px;
   height: 300px;
-  color: #ffffff;
+  color: #FFF;
 }
 
 .about img {
@@ -51,6 +51,7 @@ section {
   height: 300px;
   float: left;
   margin-right: 25px;
+  border-radius: 15px;
 }
 
 .about h2 {
@@ -62,14 +63,18 @@ section {
   margin-bottom: 50px;
   padding: 25px;
   height: 300px;
-  color: #ffffff;
+  color: #FFF;
 }
 
-.work img {
-  max-width: 250px;
-  max-height: 250px;
-  float: left;
-  margin-right: 25px;
+.work a {
+  text-decoration: none;
+  position: relative;
+  left: 740px;
+  top: 70px;
+  border: 5px solid #000;
+  border-radius: 15px;
+  padding: 50px;
+  color: #FFF;
 }
 
 .work h2 {
@@ -82,14 +87,15 @@ section {
   margin-bottom: 50px;
   padding: 25px;
   height: 300px;
-  color: #ffffff;
+  color: #FFF;
 }
 
-.contact a {
-  text-decoration: none;
-  color: #FFF;
-  text-align: center;
-  font-size: 48px;
+.contact img {
+  width: 125px;
+  height: 125px;
+  position: relative;
+  left: 750px;
+  padding: 20px;
 }
 
 .contact h2 {
@@ -102,7 +108,7 @@ footer {
     padding: 20px;
     text-align: center;
     background: #13293d;
-    color: #fff;
+    color: #FFF;
 }
   
 /* When using `max-width` as the breakpoint, you must go from widest to narrowest to avoid conflict */
