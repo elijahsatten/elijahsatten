@@ -43,6 +43,7 @@ section {
 }
 
 .about {
+  width: 60%;
   margin-bottom: 50px;
   padding: 25px;
   height: 300px;
