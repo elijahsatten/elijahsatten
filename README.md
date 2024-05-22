@@ -12,9 +12,6 @@ N/A
 
 Deployment site: https://elijahsatten.github.io/Portfolio/
 
-![Screenshot](assets/images/screenshot1.png)
-![Screenshot2](assets/images/screenshot2.png)
-
 ## Credits
 
 N/A
