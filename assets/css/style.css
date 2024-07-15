@@ -14,35 +14,6 @@ p, a {
   font-size: 24px;
 }
 
-/* Header Styling with Nav*/
-header {
-  padding: 30px;
-}
-
-header button {
-  background-color: #4a6741;
-  border-radius: 15px;
-}
-
-header button:hover {
-  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),
-  0 17px 50px 0 rgba(0,0,0,0.19);
-}
-  
-nav {
-  display: inline;
-  position: relative;
-  font-size: 36px;
-  float: right;
-  bottom: 25px;
-}
-
-nav a {
-  text-decoration: none;
-  color: #000;
-  padding: 10px;
-}
-
 /* Styling for the aboutme, mywork, and contactme sections */
 section {
   width: 95%;
