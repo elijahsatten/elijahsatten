@@ -1,6 +1,6 @@
 <h1 align="center">Hello! Welcome to my github!</h1>
 
-<h2 align="left">About me:</h2>
+<h2 align="center">About me</h2>
 <p>I've loved programming since I was a kid. I'd watch my dad create websites from nothing and it'd amaze me. That's when I decided I wanted a career in programming.</p>
 
 <h3 align="left">Known Languages:</h3>
