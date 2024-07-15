@@ -1,21 +1,8 @@
-# Portfolio
+# Elijah Satten
 
 ## Description
 
-Module 2 Challenge Project
+My Personal Portfolio
 
-## Installation
-
-N/A
-
-## Usage
-
-Deployment site: https://elijahsatten.github.io/Portfolio/
-
-## Credits
-
-N/A
-
-## License
-
-Refer to the license in the repo.
+## Website
+https://elijahsatten.github.io/elijahsatten/
